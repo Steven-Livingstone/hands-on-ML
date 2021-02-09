@@ -1,0 +1,10 @@
+- file: landing-page
+
+- part: The Fundamentals of Machine Learning
+  chapters:
+  - file: 02_end_to_end_with_SKLearn
+
+- part: Neural Network and Deep Learning
+  chapters:
+  - file: 10_intro_to_ML_with_Keras
+  - file: 11_training_deep_NN
