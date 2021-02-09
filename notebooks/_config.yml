@@ -1,0 +1,9 @@
+title: "My book title"
+author: The Jupyter Book Community
+repository:
+  url: https://github.com/Steven-Livingstone/hands-on-ML
+html:
+  use_repository_button: true
+execute:
+  execute_notebooks: "off"
+only_build_toc_files: true
